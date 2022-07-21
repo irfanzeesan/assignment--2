@@ -129,7 +129,7 @@ main{
 }
 .blog{
     border-radius: 10px;
-    box-shadow: 0px 0px 11px -2px #070202;
+    box-shadow: 0px 0px 11px -2px #7c7676;
 }
 .blog-img img{
     width: 100%;
@@ -140,7 +140,7 @@ main{
 .blog-btn{
     width: 80px;
     height: 30px;
-    border: 2px solid #0c0101;
+    border: 2px solid #2b1a1a;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -376,7 +376,7 @@ hr{
 }
 .match{
     border-radius: 10px;
-    box-shadow: 0px 0px 11px -2px #000000;
+    box-shadow: 0px 0px 11px -2px #807777;
     width: 312px;
     height: 242px;
     padding: 5rem 0;
